@@ -1,0 +1,19 @@
+{
+  "private": false,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "typecheck": "nuxi typecheck"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.4"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.3.0",
+    "@unocss/nuxt": "^0.44.5",
+    "@unocss/reset": "^0.44.5",
+    "pinia": "^2.0.16"
+  }
+}
